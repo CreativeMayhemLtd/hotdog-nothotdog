@@ -7,7 +7,7 @@ A CLIP-based NSFW detector for images and videos. Uses OpenAI CLIP to classify c
 - **CLIP-Powered Detection**: Leverages OpenAI CLIP ViT-B-32 for accurate image-text similarity scoring.
 - **Dual Modes**: Rules-based heuristic or trained RandomForest classifier (train your own, no pre-trained model provided).
 - **Video Support**: Samples frames from videos at 1 FPS.
-- **High Accuracy**: Achieves ~99.5% accuracy on balanced datasets.
+- **High Accuracy**: Achieves ~99.5% accuracy on balanced datasets of 50/50 SFW/NSFW validation set of 100,200,300 and 500 images using rules mode with tuned thresholds.
 - **Local Operation**: No internet required after initial setup.
 
 ## Installation
