@@ -1,0 +1,8 @@
+torch>=2.0.0
+open_clip_torch>=2.0.0
+pillow>=9.0.0
+numpy>=1.21.0
+tqdm>=4.64.0
+scikit-learn>=1.2.0
+joblib>=1.1.0
+opencv-python>=4.7.0
