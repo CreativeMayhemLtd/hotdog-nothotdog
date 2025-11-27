@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Hotdog_NotHotdog.py v1.0.0 - CLIP-based NSFW Detector (2025-11-26)
+Hotdog_NotHotdog.py v0.1.0 - CLIP-based NSFW Detector (2025-11-26)
 
 Scans images and videos for NSFW content using OpenAI CLIP.
 Supports rules-based and learned classifier modes.
