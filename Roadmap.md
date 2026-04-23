@@ -27,7 +27,7 @@ This document outlines the planned improvements for Hotdog_NotHotdog from V0.1.0
 ## Ethical & Legal
 - **Bias Mitigation**: Audit for biases in training data and add disclaimers.
 - **Privacy**: Ensure no data is sent externally; all local processing.
-- **Licensing**: Finalize MIT or similar, with clear usage guidelines.
+- **Licensing**: Apache-2.0 (finalized). Commercial use permitted.
 
 ## Milestones
 - **V0.2**: Implement ensemble models and basic testing.

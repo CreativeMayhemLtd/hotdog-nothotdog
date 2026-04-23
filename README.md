@@ -290,9 +290,13 @@ Before tagging a new release or shipping a model:
 
 ## License
 
-Dual-licensed under the MIT and Other Licenses. See `LICENSE` for details.
+Licensed under the Apache License, Version 2.0. See [`LICENSE`](LICENSE)
+for the full text. Commercial use is permitted.
+
+Copyright 2025 Creative Mayhem Ltd.
 
 ## Contributing
 
 Contributions welcome! Please follow PEP 8 and add tests for new
-features where practical.
+features where practical. By contributing, you agree that your
+contributions will be licensed under the Apache License, Version 2.0.
