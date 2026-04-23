@@ -293,7 +293,7 @@ Before tagging a new release or shipping a model:
 Licensed under the Apache License, Version 2.0. See [`LICENSE`](LICENSE)
 for the full text. Commercial use is permitted.
 
-Copyright 2025 Creative Mayhem Ltd.
+Copyright 2025 Creative Mayhem UG.
 
 ## Contributing
 
